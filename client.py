@@ -1,3 +1,4 @@
+#write this on the pi
 import io
 import socket
 import struct
